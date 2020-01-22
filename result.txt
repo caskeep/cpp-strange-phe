@@ -1,0 +1,8 @@
+ref decstruct test
+CRoleSomeMgr created
+ref decstruct on bracket end
+CRole destroyed
+CRoleSomeMgr destreyed
+some holds 100
+ref decstruct on program end
+CRoleSomeMgr destreyed
